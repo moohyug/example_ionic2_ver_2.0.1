@@ -10,3 +10,6 @@ ionic2 와 django rest framework를 이용하여 모바일 앱을 만들어보�
 [7강. navigation 구조 만들기](https://github.com/modoodoc/example_ionic2_ver_2.0.1/tree/8adc62c7cf9733735802fc1fa1493a7200845585)
 
 [8강. RegisterPage의 템플릿 짜기](https://github.com/modoodoc/example_ionic2_ver_2.0.1/tree/acd2c155ab211812881c8e049f2a0098048c741a)
+
+[9강. LoginPage 템플릿 만들기.](https://github.com/modoodoc/example_ionic2_ver_2.0.1/tree/84efb10900df42cf5c29fca2a8ee614a0ce32629)
+
