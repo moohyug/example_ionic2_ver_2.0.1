@@ -18,7 +18,9 @@ import { HttpWithToken } from '../providers/http-with-token';
     RegisterPage, LoginPage, PlaygroundPage, CommentPage, IntroPage
   ],
   imports: [
-    IonicModule.forRoot(MyApp)
+    IonicModule.forRoot(MyApp, {
+      backButtonText: '뒤로가기',
+    })
   ],
   bootstrap: [IonicApp],
   entryComponents: [
