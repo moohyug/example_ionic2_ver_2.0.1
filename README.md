@@ -6,3 +6,4 @@ ionic2 와 django rest framework를 이용하여 모바일 앱을 만들어보�
 - 정식버젼 2.0.1 입니다.
 
 [4강. ionic2 세팅 및 기본 사용법](https://github.com/modoodoc/example_ionic2_ver_2.0.1/tree/3148898b3afc875ff8a30a0e59ca80c1c0896a02)
+[7강. navigation 구조 만들기](https://github.com/modoodoc/example_ionic2_ver_2.0.1/tree/cf7f20128fa28e9aea19fbaa0bf76a04f60b1212)
