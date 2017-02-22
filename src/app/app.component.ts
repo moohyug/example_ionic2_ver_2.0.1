@@ -14,7 +14,7 @@ export class MyApp {
 
   @ViewChild(Nav) nav: Nav;
 
-  rootPage = RegisterPage;
+  rootPage = PlaygroundPage;
   introPage: any = IntroPage;
 
   constructor(platform: Platform, public menuCtrl: MenuController) {
