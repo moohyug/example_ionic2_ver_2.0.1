@@ -19,7 +19,7 @@ import { HttpWithToken } from '../providers/http-with-token';
   ],
   imports: [
     IonicModule.forRoot(MyApp, {
-      backButtonText: '뒤로가기',
+      backButtonText: '',
     })
   ],
   bootstrap: [IonicApp],
