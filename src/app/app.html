@@ -1,1 +1,14 @@
-<ion-nav [root]="rootPage"></ion-nav>
+<ion-menu [content]="content">
+  <ion-content>
+    <ion-list>
+      <ion-list no-lines>
+        <ion-list-header>우리들의 놀이터</ion-list-header>
+        <button ion-item (click)="openPage(rootPage)">놀이터</button>
+        <button ion-item (click)="openPage(introPage)">모두닥 소개</button>
+        <ion-list-header>나의 계정</ion-list-header>
+        <button ion-item (click)="logout()">로그아웃</button>
+      </ion-list>
+    </ion-list>
+  </ion-content>
+</ion-menu>
+<ion-nav id="nav" #content [root]="rootPage"></ion-nav>
