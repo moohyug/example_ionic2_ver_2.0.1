@@ -13,4 +13,4 @@ ionic2 와 django rest framework를 이용하여 모바일 앱을 만들어보�
 
 [9강. LoginPage 템플릿 만들기.](https://github.com/modoodoc/example_ionic2_ver_2.0.1/tree/84efb10900df42cf5c29fca2a8ee614a0ce32629)
 
-[10강. PlaygroundPage의 템플릿 짜기]()
+[10강. PlaygroundPage의 템플릿 짜기](https://github.com/modoodoc/example_ionic2_ver_2.0.1/tree/ee066754e69ef04477ddf6061478993eef031a49)
