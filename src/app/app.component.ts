@@ -2,6 +2,7 @@ import { Component, ViewChild } from '@angular/core';
 import { Platform, Nav, MenuController } from 'ionic-angular';
 import { StatusBar, Splashscreen } from 'ionic-native';
 
+import { CommentPage } from '../pages/comment/comment';
 import { RegisterPage } from '../pages/register/register';
 import { PlaygroundPage } from '../pages/playground/playground';
 import { IntroPage } from '../pages/intro/intro';
@@ -15,6 +16,8 @@ export class MyApp {
   @ViewChild(Nav) nav: Nav;
 
   rootPage = PlaygroundPage;
+
+  playgroundPage = PlaygroundPage;
   introPage: any = IntroPage;
 
   constructor(platform: Platform, public menuCtrl: MenuController) {
